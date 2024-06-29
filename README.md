@@ -1,4 +1,4 @@
 # practice
 this is practice repository
 <br>
-author - nikhil
+author - nikhil shinde
